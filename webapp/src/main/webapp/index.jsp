@@ -32,7 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> This is an exatr line for thst everyminutes pull from git </h1>
    
 
   
