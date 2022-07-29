@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -32,9 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> this line add from Git Desktop </h1>
-   <h1> this line add from Git Desktop v2 </h1>
-   <h1> this line commit from Git mobile</h1>
+   <h1> executing from jenkins to anisble to dockerhub </h1>
    
 
   
