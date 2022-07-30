@@ -1,8 +1,11 @@
-<form action="action_page.php">
-  <div class="container">
-
-	<h1> This is a java base devops project deploying with git hub, jenkins, ansible, docker hub, docker.
-
-  </div>
- 
-</form>
+<html>
+<head>
+<title>My first JSP</title>
+</head>
+<% import java.util.*; %>
+<% Date date = new Date();
+   response.println("The current date is " + date);
+   ...
+%>
+</body>
+</html>
