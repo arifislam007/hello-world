@@ -40,6 +40,7 @@
    <h2> This linke has been added after full CI/CD configure from jenkins  </h2>
    <h1> After removing image from ansible it should work fine </h1>
    <h1> 2nd image from ansible it should work fine </h1>
+   <h1> ITs now work fine  </h1>
 
   
 </form>
