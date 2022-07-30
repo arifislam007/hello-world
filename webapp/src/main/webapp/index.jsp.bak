@@ -38,7 +38,7 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h2> This linke has been added after full CI/CD configure from jenkins  </h2>
-   
+   <h1> After removing image from ansible it should work fine </h1>
 
   
 </form>
