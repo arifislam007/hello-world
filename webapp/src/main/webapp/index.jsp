@@ -37,8 +37,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> executing from jenkins to anisble to dockerhub </h1>
-   <h2> this is full ci/cd about tomcat </h2>
    <h2> This linke has been added after full CI/CD configure from jenkins  </h2>
    
 
