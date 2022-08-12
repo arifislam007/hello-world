@@ -32,7 +32,7 @@ pipeline {
 					docker stop tomapp5;
 					docker rm tomapp5;
 					docker run -itd --name tomapp5 -p 8024:8080 tomapp:v5''', 
-					remoteDirectory: 'dockertomcatv3', remoteDirectorySDF: false, 
+					remoteDirectory: 'dockertomcatv2', remoteDirectorySDF: false, 
 					removePrefix: 'webapp/target', sourceFiles: '**/*.war')], 
 					useWorkspaceInPromotion: false, verbose: false)])
                
