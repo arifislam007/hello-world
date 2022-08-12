@@ -6,6 +6,9 @@ pipeline {
     stages {
         stage('SCM') { 
             steps {
+				script {
+					properties([pipelineTriggers([pollSCM('* * * * *')])])
+				}
                 git 'https://github.com/arifislam007/hello-world.git' 
             }
         }
