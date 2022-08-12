@@ -6,7 +6,6 @@ pipeline {
     stages {
         stage('SCM') { 
             steps {
-
                 git 'https://github.com/arifislam007/hello-world.git' 
             }
         }
