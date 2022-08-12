@@ -9,6 +9,8 @@
 	</br> 1. Add from another git user.
 	</br> 2. Auto marge to main repository enable.
 	</br> 3. Auto poll scm with pipline.
+	</br> 4. Auto poll scm with pipline check from out of local network.
+	
 
   </div>
  
