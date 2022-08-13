@@ -28,7 +28,6 @@ pipeline {
 				sshPublisher(publishers: [sshPublisherDesc(configName: 'dockerhost', 
 					transfers: [sshTransfer(cleanRemote: false, excludes: '', 
 					execCommand: '''cd /root/dockertomcatv2;
-					docker image rm tomapp:v5;
 					docker build -t tomapp:v5 .;
 					docker stop tomapp5;
 					docker rm tomapp5;
