@@ -11,6 +11,7 @@
 	</br> 3. Auto poll scm with pipline.
 	</br> 4. Auto poll scm with pipline check from out of local network.
 	</br> 5. update another line
+	</br> 6. Update index 
 	
 
   </div>

@@ -3,6 +3,15 @@
 
 	<h1> This is a java base devops project deploying with git hub,
 	</br> jenkins, ansible, docker hub, docker.
+	</br> You can change and find result here .
+	</br> This is another line added from git Bash.
+	</br> You can change and find result here . 
+	</br> 1. Add from another git user.
+	</br> 2. Auto marge to main repository enable.
+	</br> 3. Auto poll scm with pipline.
+	</br> 4. Auto poll scm with pipline check from out of local network.
+	</br> 5. update another line
+	
 
   </div>
  
