@@ -2,7 +2,7 @@
   <div class="container">
 
 	<h1> This is a java base devops project deploying with git hub,
-	</br> jenkins, ansible, docker hub, docker.
+	</br> Java ---> Github ----> Jenkins ----> Docker 
 	</br> You can change and find result here .
 	</br> This is another line added from git Bash.
 	</br> You can change and find result here . 
@@ -13,6 +13,7 @@
 	</br> 5. update another line
 	</br> 6. Update index 
 	</br> 7. Update at 13-08-2022 at 2.53
+	
 	
 
   </div>
